@@ -2,7 +2,7 @@
 
 This is an assignment on NetworkX graph analysis for a data science program. An unweighted network data of Zachary's Karate Club was given for analysis. Several centrality metrics were calculated for all nodes to compare how influential or important the nodes are in the network. The graph was then visualized to show nodes in different sizes according to degree of each node. 
 
-The network is then clustered using Spectral CLustering algortihm to see whether the resulting clusters centered on node 34 and node 1 and whether node 9 stayed with node 34 (the administrator of the club) or node 1 (the instructor of the club). How are these result compared to the results of the original study. Did these algorithm successfully predict who node 9 sided with?
+The network is then clustered using Spectral Clustering algortihm to see whether the resulting clusters centered on node 34 and node 1 and whether node 9 stayed with node 34 (the administrator of the club) or node 1 (the instructor of the club). How are these result compared to the results of the original study. Did these algorithm successfully predict who node 9 sided with?
 
 Read about Zachary’s Karate Club Problem here: https://en.wikipedia.org/wiki/Zachary% 27s_karate_club. 
 
